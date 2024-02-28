@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.3",
+    "cookiecutter_context": {
+      "project_name": "Rough Waterfall",
+      "project_slug": "rough_waterfall_1",
+      "project_dash_slug": "rough-waterfall-1",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "santosh@gmail.com",
+      "ssh_key_fingerprint": ""
+    }
+  }
+}
